@@ -1,6 +1,6 @@
 {
-  "name": "Money Manager",
-  "short_name": "Money Manager",
+  "name": "Sample App",
+  "short_name": "Sample App",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
